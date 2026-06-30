@@ -24,7 +24,7 @@
 
 
 ## Other Information
-**My internet pseudonym is DrMixxer, ive been learning to develop for some time know (Roughly 3 Years~~~), and ive been learning and developing projects constantly, I wrote this readme to improvide my god-awfull github**
+**WIP**
 
 
 
