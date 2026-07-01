@@ -21,10 +21,10 @@ Building developer tools, desktop software, and real-time applications with a fo
 
 ---
 
-## ⚡ Discord.z
-*A high-performance Discord API wrapper written in Zig.*
+## ⚡ DisKord
+*A high-performance Discord API wrapper written in Kotlin.*
 
-[![Discord.z](https://github-stats-extended.vercel.app/api/pin?username=J4Edev&repo=Discord.z&theme=dracula)](https://github.com/J4Edev/Discord.z)
+[![Discord.z](https://github-stats-extended.vercel.app/api/pin?username=J4Edev&repo=DisKord&theme=dracula)](https://github.com/J4Edev/Discord.z)
 
 ---
 
@@ -147,7 +147,7 @@ Currently focused on growing these flagship projects:
 | Project | Focus |
 |---------|-------|
 | 🎵 **Radio FM** | Collaborative listening platform |
-| ⚡ **Discord.z** | High-performance Discord SDK for Zig |
+| ⚡ **DisKord** | High-performance Discord SDK for Kotlin |
 | 🖥️ **MWF** | Windows provisioning & optimization |
 | 🕸️ **Hasty** | Modern high-performance scraping toolkit |
 | ✍️ **EDIT** | Modern Markdown & text editor |
