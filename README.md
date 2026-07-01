@@ -5,7 +5,7 @@
 <details>
   <summary>Github Stats.</summary>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J4Edev&show_icons=true&theme=dracula&show=reviews,discussions_answered,prs_merged,prs_merged_percentage&hide=contribs)
+![GitHub stats]([https://github-readme-stats.vercel.app](https://github-stats-extended.vercel.app/api?username)/api?username=J4Edev&show_icons=true&theme=dracula&show=reviews,discussions_answered,prs_merged,prs_merged_percentage&hide=contribs)
 </details>
 
 ## 💸 Languages && Frameworks - 
