@@ -17,14 +17,14 @@ Building developer tools, desktop software, and real-time applications with a fo
 ## 🎵 Radio FM
 *A real-time collaborative music platform that lets people listen together from anywhere.*
 
-[![Radio FM](https://github-stats-extended.vercel.app/api/pin?username=J4Edev&repo=MWF&theme=dracula)](https://github.com/J4Edev/RadioFM)
+[![Radio FM](https://github-stats-extended.vercel.app/api/pin?username=J4Edev&repo=RadioFM&theme=dracula)](https://github.com/J4Edev/RadioFM)
 
 ---
 
 ## ⚡ Discord.z
 *A high-performance Discord API wrapper written in Zig.*
 
-[![Discord.z](https://github-stats-extended.vercel.app/api/pin?username=J4Edev&repo=MWF&theme=dracula)](https://github.com/J4Edev/Discord.z)
+[![Discord.z](https://github-stats-extended.vercel.app/api/pin?username=J4Edev&repo=Discord.z&theme=dracula)](https://github.com/J4Edev/Discord.z)
 
 ---
 
@@ -38,7 +38,7 @@ Building developer tools, desktop software, and real-time applications with a fo
 ## 🕸️ Hasty
 *A fast, modern web scraping toolkit.*
 
-[![Hasty](https://github-stats-extended.vercel.app/api/pin?username=J4Edev&repo=MWF&theme=dracula)](https://github.com/J4Edev/Hasty)
+[![Hasty](https://github-stats-extended.vercel.app/api/pin?username=J4Edev&repo=Hasty&theme=dracula)](https://github.com/J4Edev/Hasty)
 
 ---
 
