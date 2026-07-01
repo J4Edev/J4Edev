@@ -5,7 +5,7 @@ Building developer tools, desktop software, and real-time applications with a fo
 ### 🚀 Currently Building
 
 - 🎵 **Radio FM** — Real-time collaborative music platform
-- ⚡ **Discord.z** — High-performance Discord library written in Zig
+- ⚡ **DisKord** — High-performance Discord library written in Kotlin
 - 🖥️ **MWF** — Windows provisioning & optimization toolkit
 
 > Interested in systems programming, developer tooling, networking, desktop software, open source, and building products people genuinely enjoy using.
