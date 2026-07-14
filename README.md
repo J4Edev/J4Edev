@@ -5,7 +5,7 @@ Building developer tools, desktop software, and real-time applications with a fo
 ### 🚀 Currently Building
 
 - 🎵 **Radio FM** — Real-time collaborative music platform
-- ⚡ **DisKord** — High-performance Discord library written in Kotlin
+- ⚡ **RadioCord** — High-performance Discord library written in JS
 - 🖥️ **MWF** — Windows provisioning & optimization toolkit
 
 > Interested in systems programming, developer tooling, networking, desktop software, open source, and building products people genuinely enjoy using.
@@ -21,10 +21,10 @@ Building developer tools, desktop software, and real-time applications with a fo
 
 ---
 
-## ⚡ DisKord
-*A high-performance Discord API wrapper written in Kotlin.*
+## ⚡ Radiocord
+*A high-performance Discord wrapper for Radio FM.*
 
-[![Discord.z](https://github-stats-extended.vercel.app/api/pin?username=J4Edev&repo=DisKord&theme=dracula)](https://github.com/J4Edev/Discord.z)
+[![Discord.z](https://github-stats-extended.vercel.app/api/pin?username=J4Edev&repo=Radiocord&theme=dracula)](https://github.com/J4Edev/Discord.z)
 
 ---
 
@@ -147,7 +147,7 @@ Currently focused on growing these flagship projects:
 | Project | Focus |
 |---------|-------|
 | 🎵 **Radio FM** | Collaborative listening platform |
-| ⚡ **DisKord** | High-performance Discord SDK for Kotlin |
+| ⚡ **RadioCord** | High-performance Discord SDK for Radio FM |
 | 🖥️ **MWF** | Windows provisioning & optimization |
 | 🕸️ **Hasty** | Modern high-performance scraping toolkit |
 | ✍️ **EDIT** | Modern Markdown & text editor |
