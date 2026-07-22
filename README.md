@@ -58,7 +58,7 @@ Building developer tools, desktop software, and real-time applications with a fo
 
 ## 💻 Languages
 
-[![Languages](https://skillicons.dev/icons?i=zig,rust,go,py,js,ts,c,cpp,html,css,bash)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=rust,go,py,js,ts,c,cpp,html,css,bash)](https://skillicons.dev)
 
 ---
 
